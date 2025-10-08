@@ -114,7 +114,11 @@
       'socket accepted from',
       'tcp port connected',
       'hsms selected',
-      'sending control message'
+      'sending control message',
+      'failed to bind',
+      'passive wait failed',
+      'wait T5 before next listen',
+      'hsms port disabled'
     ];
 
     const lines = input.split('\n');
