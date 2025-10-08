@@ -117,7 +117,7 @@
       'sending control message',
       'failed to bind',
       'passive wait failed',
-      'wait T5 before next listen',
+      'wait t5 before next listen',
       'hsms port disabled'
     ];
 
