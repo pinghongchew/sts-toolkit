@@ -118,7 +118,8 @@
       'failed to bind',
       'passive wait failed',
       'wait t5 before next listen',
-      'hsms port disabled'
+      'hsms port disabled',
+      'socket is closed'
     ];
 
     const lines = input.split('\n');
